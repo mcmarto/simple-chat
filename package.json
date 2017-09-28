@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/techpool/simple-chat.git"
+    "url": "git+https://github.com/mbrandau/simple-chat.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/techpool/simple-chat/issues"
+    "url": "https://github.com/mbrandau/simple-chat/issues"
   },
-  "homepage": "https://github.com/techpool/simple-chat#readme",
+  "homepage": "https://github.com/mbrandau/simple-chat#readme",
   "dependencies": {
     "express": "^4.16.0",
     "socket.io": "^2.0.3"
