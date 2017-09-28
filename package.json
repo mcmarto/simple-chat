@@ -1,0 +1,24 @@
+{
+  "name": "simple-chat",
+  "version": "1.0.0",
+  "description": "A simple chat app using Angular and socket.io",
+  "main": "web_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node web_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techpool/simple-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techpool/simple-chat/issues"
+  },
+  "homepage": "https://github.com/techpool/simple-chat#readme",
+  "dependencies": {
+    "express": "^4.16.0",
+    "socket.io": "^2.0.3"
+  }
+}
