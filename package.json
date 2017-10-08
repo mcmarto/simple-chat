@@ -12,7 +12,7 @@
     "url": "git+https://github.com/mbrandau/simple-chat.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mbrandau/simple-chat/issues"
   },
