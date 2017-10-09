@@ -5,7 +5,9 @@
   "main": "web_server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node web_server.js"
+    "start": "node web_server.js",
+    "build": "cd frontend && npm run build --prod",
+    "build-dev": "cd frontend && ng build --prod -w"
   },
   "repository": {
     "type": "git",
